@@ -16,7 +16,10 @@
 
 ### 📌 Tecnologias Usadas:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ✏ Passo a passo para instalar o projeto Backend:
 
@@ -40,8 +43,8 @@ Abra o arquivo ```src/main/resources/application.properties``` e atualize as inf
 5. Executar o projeto:
 ```java -jar target/nome-do-arquivo.jar```
 
-### 🗃 Para ter acesso ao repositório Front-End do SoftBank, acesse: [SoftCardFrontEnd](https://github.com/viannajoao/ByteCardAngular)
-
+### Para ter acesso ao repositório Front-End do SoftBank, acesse: 
+[![SoftBankFrontEnd](https://img.shields.io/badge/SoftBank_FrontEnd-051D40?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/viannajoao/ByteCardAngular)
 
 
 
