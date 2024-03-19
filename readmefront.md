@@ -8,39 +8,48 @@
 ### 👥 Colaboradores: João Viana, Yasmim Lira, Thainá Zerbinatti e Lucas Soares
 
  
-### O SoftBank é um sistema de gerenciamento de cartões de um banco. As atividades principais do projeto em Back-End são:
+### O SoftBank é um sistema de gerenciamento de cartões de um banco. As atividades principais do projeto em Front-End são:
 - Cadastrar/Alterar/Listar/Excluir clientes, cartões e compras
 - Alterar limite dos cartões
 - Relatório de movimentações de compras, clientes
 - Relatórios por cartões com filtros de datas
 
+
 ### 📌 Tecnologias Usadas:
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![POUI](https://img.shields.io/badge/PO_UI-%23B939A9.svg?style=for-the-badge&logo=angular&logoColor=white)
+
+
+
 
 ### ✏ Passo a passo para instalar o projeto Backend:
 
 1. Pré-requisitos - Antes de começar, certifique-se de ter instalado:
-```JDK (Java Development Kit)```
-```MySQL Server```
-```Postman```
+```Node.js``` e
+```npm (Node Package Manager)```
 
-2. Instalação
-Clonar o repositório:
-```git clone https://github.com/seu-usuario/nome-do-repositorio.git```
+2. Clone o repositório
+Clone este repositório para sua máquina local usando o seguinte comando git:
+```git clone https://github.com/seu-usuario/seu-projeto-angular.git```
+Substitua seu-usuario e seu-projeto-angular pelos seus detalhes específicos.
 
-3. Configurar o banco de dados:
-Crie um banco de dados MySQL.
-Abra o arquivo ```src/main/resources/application.properties``` e atualize as informações do banco de dados conforme necessário (URL, nome do banco de dados, usuário e senha).
+3. Instale as dependências
+Navegue até o diretório do projeto recém-clonado e instale as dependências do npm executando o seguinte comando:
+```cd seu-projeto-angular```
+```npm install```
 
-4. Compilar o projeto:
-```cd nome-do-repositorio```
-```mvn clean install```
+4. Inicie o servidor de desenvolvimento
+Depois de instalar as dependências, você pode iniciar o servidor de desenvolvimento local executando:
+```ng serve```
+Isso iniciará o servidor de desenvolvimento em ```http://localhost:4200/```. Você pode visualizar o seu projeto Angular no navegador acessando esse URL.
 
-5. Executar o projeto:
-```java -jar target/nome-do-arquivo.jar```
-
-### 🗃 Para ter acesso ao repositório Front-End do SoftBank, acesse: [SoftCardFrontEnd](https://github.com/viannajoao/ByteCardAngular)
+### Para ter acesso ao repositório Back-End do SoftBank, acesse: 
+[![SoftBankBackEnd](https://img.shields.io/badge/SoftBank_BackEnd-051D40?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/viannajoao/ByteBankStarTechApi)
 
 
 
