@@ -1,4 +1,4 @@
-# SOFTBANK
+# SOFT BANK
 
 ### 💻 Projeto desenvolvido como trabalho de conclusão de curso do Programa Start Tech.
 
@@ -15,10 +15,8 @@
 - Relatórios por cartões com filtros de datas
 
 ### 📌 Tecnologias Usadas:
-Java
-MySQL
-Spring Boot
-Postman
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### ✏ Passo a passo para instalar o projeto Backend:
 
@@ -43,6 +41,7 @@ Abra o arquivo ```src/main/resources/application.properties``` e atualize as inf
 ```java -jar target/nome-do-arquivo.jar```
 
 ### 🗃 Para ter acesso ao repositório Front-End do SoftBank, acesse: [SoftCardFrontEnd](https://github.com/viannajoao/ByteCardAngular)
+
 
 
 
