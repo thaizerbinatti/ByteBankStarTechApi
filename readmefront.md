@@ -35,15 +35,17 @@
 
 2. Clone o repositório
 Clone este repositório para sua máquina local usando o seguinte comando git:
-```git clone https://github.com/seu-usuario/seu-projeto-angular.git```
-Substitua seu-usuario e seu-projeto-angular pelos seus detalhes específicos.
+```git clone https://github.com/viannajoao/ByteCardAngular.git```
 
-3. Instale as dependências
+3. Dependências
 Navegue até o diretório do projeto recém-clonado e instale as dependências do npm executando o seguinte comando:
 ```cd seu-projeto-angular```
 ```npm install```
 
-4. Inicie o servidor de desenvolvimento
+4. Instalando as dependências
+Antes de executar a instalação ou inserir o Po no seu projeto existente, é necessário verificar as dependências do seu projeto, para verificar pode acessar o link: ```https://po-ui.io/guides/getting-started``` e verifique como as dependências devem ser instaladas.
+
+5. Inicie o servidor de desenvolvimento
 Depois de instalar as dependências, você pode iniciar o servidor de desenvolvimento local executando:
 ```ng serve```
 Isso iniciará o servidor de desenvolvimento em ```http://localhost:4200/```. Você pode visualizar o seu projeto Angular no navegador acessando esse URL.
